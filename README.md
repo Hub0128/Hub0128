@@ -6,8 +6,8 @@
 </div>
 
 
-✨ github: https://github.com/Hub0128
-✨ notion: https://studentpark.notion.site/ce4d697d936042f7af3f36eaf2a266fa
+✨ github: https://github.com/Hub0128  
+✨ notion: https://studentpark.notion.site/ce4d697d936042f7af3f36eaf2a266fa  
 ✨ email: ajskdlf0128@gmail.com
 <!--
 **Hub0128/Hub0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
