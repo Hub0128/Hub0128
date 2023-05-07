@@ -4,8 +4,7 @@
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 </div>
-
-
+<br>
 ✨ github: https://github.com/Hub0128  
 ✨ notion: https://studentpark.notion.site/ce4d697d936042f7af3f36eaf2a266fa  
 ✨ email: ajskdlf0128@gmail.com
